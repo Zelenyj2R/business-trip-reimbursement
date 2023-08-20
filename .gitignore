@@ -1,0 +1,10 @@
+*.tmp
+*.log
+target/
+build/
+.idea/
+/.m2/
+application.properties
+application.yml
+config.properties
+secrets.txt
